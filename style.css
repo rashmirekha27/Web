@@ -1,0 +1,33 @@
+p.format {
+    line-height: 1.5;
+  }
+.nav-button  {
+    padding-left: 10px;
+    padding-right:10px;
+}
+.nav-padding {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+/* main title within each container */
+.main h2 {
+    margin-left: 15px;
+    margin-right: 15px;
+    color: rgb(112, 113, 144);
+}
+/* Comparison.html: title for each visualization image */
+.main h4 {
+    text-align: center;
+    color: rgb(112, 118, 144);
+}
+#footer_line {
+    border: 3px;
+    border-style: solid;
+    color:rgb(112, 120, 144);
+}
+.box {
+    padding: 15px;
+    margin: 15px;
+}
+.box-selected {
+    border:  2px solid rgb(112, 122, 144);
